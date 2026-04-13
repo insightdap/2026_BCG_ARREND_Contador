@@ -49,6 +49,7 @@ try(gs4_auth(
   )
 ))
 
+
 #Importación   --------------------------------------------------------
 data <- read_sheet("1pKDXpeAjmI5PNV2pqJpfF4GhdrbeiEGwAzv-fOkpyX0")
 principal <- read_sheet("1JdXePk-Fj7I-R39-uoDSvYKB6qrDQ0uHzKxlzawLfHQ")
